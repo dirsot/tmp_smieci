@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aa  jes t ok  fsdf 
+=======
+aa tekst z branch
+>>>>>>> smieci
